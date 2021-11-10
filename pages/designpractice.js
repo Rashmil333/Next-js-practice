@@ -69,7 +69,7 @@ const designpractice=()=>{
 			</div>
 		</div>
 
-		<div className={design.divs2} style={{backgorundColor:'red'}}>
+		<div className={design.divs2}>
 			<div>
 				<div style={{marginLeft:'20px',marginTop:'20px',float:'left'}}>
 					<p style={{color:'#6E6E7A'}}>
