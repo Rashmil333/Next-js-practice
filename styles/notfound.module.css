@@ -1,0 +1,20 @@
+.text1{
+	
+	font-size: 60px;
+}
+
+.text1:hover{
+	animation: 20s rotate linear infinite;
+}
+
+@keyframes rotate{
+	0%{
+		transform: rotateY(0deg);
+	}
+
+	100%{
+		transform: rotateY(360deg);
+	}
+
+
+}
