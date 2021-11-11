@@ -1,0 +1,26 @@
+.photo{
+	width: 220px;
+	height: 220px;
+	border-radius: 110px;
+	border: 2px solid #FFFFFF;
+	margin: 2% 0% 0% 2%;
+
+}
+.maindiv{
+}
+
+/*-------------------------------media query-------------------------------------*/
+@media(max-width:1105px ){
+	.photo{
+		width: 180px;
+		height: 180px;
+		margin: 4% 0% 0% 3%;
+	}
+}
+@media(max-width:895px ){
+	.photo{
+		width: 130px;
+		height: 130px;
+		margin: 7% 0% 0% 4%;
+	}
+}

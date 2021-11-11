@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Button Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="25" height="25" rx="12.5"></rect>
+    </defs>
+    <g id="1200---Profile---Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Profile---Add-Friend-Copy" transform="translate(-338.000000, -423.000000)">
+            <g id="Button-Copy" transform="translate(339.000000, 424.000000)">
+                <rect id="Color-2" fill-rule="nonzero" x="0" y="0" width="25" height="25" rx="12.5"></rect>
+                <g id="Button-2-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Color" stroke="#6E6E7A" stroke-width="1.5" xlink:href="#path-1"></use>
+                    <g id="Button-2" mask="url(#mask-2)" fill="#6E6E7A" fill-rule="nonzero">
+                        <g transform="translate(5.357143, 10.714286)" id="Icon">
+                            <path d="M10.7142857,1.78571429 C10.7142857,0.799491518 11.5137772,0 12.5,0 C13.4862228,0 14.2857143,0.799491518 14.2857143,1.78571429 C14.2857143,2.77193705 13.4862228,3.57142857 12.5,3.57142857 C11.5137772,3.57142857 10.7142857,2.77193705 10.7142857,1.78571429 Z M5.35714286,1.78571429 C5.35714286,0.799491518 6.15663438,0 7.14285714,0 C8.12907991,0 8.92857143,0.799491518 8.92857143,1.78571429 C8.92857143,2.77193705 8.12907991,3.57142857 7.14285714,3.57142857 C6.15663438,3.57142857 5.35714286,2.77193705 5.35714286,1.78571429 Z M0,1.78571429 C0,0.799491518 0.799491518,0 1.78571429,0 C2.77193705,0 3.57142857,0.799491518 3.57142857,1.78571429 C3.57142857,2.77193705 2.77193705,3.57142857 1.78571429,3.57142857 C1.31211341,3.57142857 0.857909995,3.38329136 0.523023605,3.04840497 C0.188137215,2.71351858 0,2.25931516 0,1.78571429 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

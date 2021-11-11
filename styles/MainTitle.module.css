@@ -1,0 +1,85 @@
+
+.h1{
+	font-size: 28px;
+	font-family: 'DM Sans', sans-serif;
+}
+.h3{
+	color: #6E6E7A;
+	opacity: 80%;
+	font-family: 'DM Sans', sans-serif;
+	font-size: 15px;
+	margin-top: -20px;
+}
+.flexrow{
+	display: flex;
+}
+.icon{
+	margin-top:36px;
+	margin-left: 10px;
+}
+.floatleft{
+	float: left;
+	margin-left: 20px;
+}
+
+.floatright{
+	float: right;
+	margin-right: 20px;
+	margin-top: 10px;
+	
+}
+.floatcenter{
+	align-self: center;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.number{
+	font-size: 24px;
+	color: #7EB4C0;
+	opacity: 80%;
+	font-family: 'DM Sans', sans-serif;
+	align-self: center;
+	margin-left: 10px;
+}
+
+.friends{
+	color:  #0D0C22;
+	font-size: 18px;
+	opacity: 50%;
+	font-family: 'DM Sans', sans-serif;
+	align-self: center;
+	margin-left: 10px;
+}
+
+.request{
+	color:#0D0C22;
+	font-size: 18px;
+	font-family: 'DM Sans', sans-serif;
+	align-self: center;
+	margin-left: 10px;
+}
+/*---------------------------media query----------------------------------------------*/
+@media(max-width: 787px){
+	.floatright{
+	float: left;
+	margin-left: 20px;
+	
+}
+.MainTitle{
+	display:grid;
+}
+.floatright{
+	margin-left: 11px;
+}
+
+}
+@media(max-width: 342px){
+	.h1{
+		font-size: 20px;
+	}
+	.icon{
+		align-self: center;
+		margin-top: -5px;
+	}
+}
